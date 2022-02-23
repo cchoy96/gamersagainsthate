@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Gamers Against Hate'
-theme = "ananke"
+theme = "vex-hugo"

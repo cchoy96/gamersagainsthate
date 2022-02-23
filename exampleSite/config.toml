@@ -1,10 +1,10 @@
 baseURL = "https://gamersagainsthate.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
-paginate = "6"
+paginate = "3"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "Gamers Against Hate"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
